@@ -1,0 +1,16 @@
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\bin\Debug\netstandard2.0\LearnningXamApp.deps.json
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\bin\Debug\netstandard2.0\LearnningXamApp.dll
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\bin\Debug\netstandard2.0\ref\LearnningXamApp.dll
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\bin\Debug\netstandard2.0\LearnningXamApp.pdb
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\obj\Debug\netstandard2.0\LearnningXamApp.csprojAssemblyReference.cache
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\obj\Debug\netstandard2.0\LearnningXamApp.AssemblyInfoInputs.cache
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\obj\Debug\netstandard2.0\LearnningXamApp.AssemblyInfo.cs
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\obj\Debug\netstandard2.0\LearnningXamApp.csproj.CoreCompileInputs.cache
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\obj\Debug\netstandard2.0\LearnningXamApp.dll
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\obj\Debug\netstandard2.0\ref\LearnningXamApp.dll
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\obj\Debug\netstandard2.0\LearnningXamApp.pdb
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\obj\Debug\netstandard2.0\Home.xaml.g.cs
+D:\Mobile Application\LearnningXamApp\LearnningXamApp\LearnningXamApp\obj\Debug\netstandard2.0\PickersPage.xaml.g.cs

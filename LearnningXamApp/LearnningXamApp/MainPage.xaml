@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="LearnningXamApp.MainPage"
+             BackgroundColor="AliceBlue"
+             Title="Login">
+
+    <ContentPage.Content>
+        <StackLayout x:Name="mainstack">
+            <StackLayout Padding="20" Margin="0,40,0,0">
+                <Label Text="Username" TextColor="Black"/>
+                <Entry Text="" Placeholder="Username" x:Name="username"/>
+
+                <Label Text="Password" TextColor="Black"/>
+                <Entry Text="" Placeholder="Password" IsPassword="True"/>
+
+                <Button Text="Login" BackgroundColor="Bisque"
+                        TextColor="Green" CornerRadius="20" Clicked="LoginBtn" 
+                        HorizontalOptions="Center" VerticalOptions="Center"/>
+                <Label Text="Not a member? Register here" TextColor="Gray" HorizontalOptions="Center"/>
+
+                <Button Text="Pickers" Clicked="Button_Clicked" BackgroundColor="CornflowerBlue"
+                        CornerRadius="10"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+    
+
+</ContentPage>

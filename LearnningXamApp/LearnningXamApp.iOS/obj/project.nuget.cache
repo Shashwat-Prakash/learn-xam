@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YsWRIZDy10ev9ChNwSRAkUZB/xTNFJ2uMKB3Wp9s9CBcN3anqD+YDYVVbJEFrH+yFpxizfQHD9ZIR4UY3j730w==",
+  "success": true,
+  "projectFilePath": "D:\\Mobile Application\\LearnningXamApp\\LearnningXamApp\\LearnningXamApp.iOS\\LearnningXamApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shashwat\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Shashwat\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Shashwat\\.nuget\\packages\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

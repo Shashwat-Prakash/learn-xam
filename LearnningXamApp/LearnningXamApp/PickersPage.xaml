@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="LearnningXamApp.PickersPage"
+             Title="Pickers">
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <Label Text="Pickers" FontSize="20"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center" />
+            <Label Text="There are 3 types of picker. Date, time, Picker(Dropdown list)" 
+                   HorizontalOptions="Center" VerticalOptions="Center"/>
+
+            <DatePicker x:Name="dp" MaximumDate="2020/12/31" MinimumDate="2000/01/01" />
+
+            <TimePicker x:Name="tp" />
+            <Button x:Name="button" Text="Submit" CornerRadius="20"
+                    VerticalOptions="Center" HorizontalOptions="Center"
+                    BackgroundColor="Bisque" Clicked="button_Clicked"/>
+
+            <Label x:Name="details"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
